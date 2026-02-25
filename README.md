@@ -36,4 +36,4 @@ Always delete this script after use. Leaving it public allows anyone to upload f
 ---
 
 > ❤️ Developed with passion for efficiency.  
-> ✅ **Hire me** [freelancer.com/hireme/csehabiburr183(#)  
+> ❤️ **Hire Me:** [freelancer.com/hireme/csehabiburr183](https://www.freelancer.com/hireme/csehabiburr183)
