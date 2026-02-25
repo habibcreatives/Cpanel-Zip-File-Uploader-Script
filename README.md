@@ -3,6 +3,8 @@
 A premium, futuristic, and high-performance **Remote File Downloader** for PHP. 
 This script allows you to bypass local upload limits by fetching files directly from a remote server to your own.
 
+![Preview](snap.jpg)
+
 ---
 
 ### ✅ Core Features
